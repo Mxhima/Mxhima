@@ -3,15 +3,16 @@
 ## I'm an Undergraduate @ NSBM Green University
 
 - 💻 Currently Working on several projects.
+- 📚 Currently learning React & Flutter.
 - 👯 Looking to collaborate with other developers.
 - 🥅 Goals: Change Myself ✨
 - 🎮 Fun fact: Love to play games and read books 
 
 ### Connect with me:
 
-[Twitter]
-[linkedin]
-[instagram]
+[Twitter - @tis_just_mahima], 
+[linkedin - @Mahima Hemachandra], 
+[instagram - @induwxra]
 
 <br />
 
@@ -25,6 +26,10 @@
 
 <br />
 
+https://github-readme-stats.vercel.app/api?username=Mxhima&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+
 [Twitter]: https://twitter.com/Tis_Just_Mahima
 [linkedin]: https://www.linkedin.com/in/mahima-hemachandra-73ba5a1a5/
 [instagram]: https://www.instagram.com/induwxra/
+
+
