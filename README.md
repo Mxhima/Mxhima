@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[Twitter - @tis_just_mahima], 
-[linkedin - @Mahima Hemachandra], 
-[instagram - @induwxra]
+[Twitter - @tis_just_mahima](https://twitter.com/Tis_Just_Mahima), 
+[linkedin - @Mahima Hemachandra](https://www.linkedin.com/in/mahima-hemachandra-73ba5a1a5/), 
+[instagram - @induwxra](https://www.instagram.com/induwxra/)
 
 <br />
 
@@ -28,8 +28,5 @@
 
 https://github-readme-stats.vercel.app/api?username=Mxhima&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
 
-[Twitter]: https://twitter.com/Tis_Just_Mahima
-[linkedin]: https://www.linkedin.com/in/mahima-hemachandra-73ba5a1a5/
-[instagram]: https://www.instagram.com/induwxra/
 
 
