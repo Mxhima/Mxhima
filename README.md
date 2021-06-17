@@ -27,14 +27,6 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
 
 [Twitter]: https://twitter.com/Tis_Just_Mahima
 [linkedin]: https://www.linkedin.com/in/mahima-hemachandra-73ba5a1a5/
