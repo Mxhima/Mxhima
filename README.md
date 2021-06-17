@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Mahima | Twitter" width="22px" src="http://cdn.jsdeliver.net/npm/simple-icon@v3/icons/twitter.svg" />] [Twitter]
-[<img align="left" alt="Mahima | Linkedin" width="22px" src="http://cdn.jsdeliver.net/npm/simple-icon@v3/icons/linkedin.svg" />] [linkedin]
-[<img align="left" alt="Mahima | Instagram" width="22px" src="http://cdn.jsdeliver.net/npm/simple-icon@v3/icons/instagram.svg" />] [instagram]
+[Twitter]
+[linkedin]
+[instagram]
 
 <br />
 
