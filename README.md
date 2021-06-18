@@ -25,6 +25,7 @@
 <a href="https://twitter.com/tis_just_mahima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tis_just_mahima" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mahima-hemachandra-73ba5a1a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahima hemachandra" height="30" width="40" /></a>
 <a href="https://instagram.com/induwxra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="induwxra" height="30" width="40" /></a>
+<a href="https://dribbble.com/mxhima_97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mxhima_97" height="30" width="40" /></a>
 </p>
 
 <br />
@@ -35,7 +36,8 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mxhima&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Mxhima&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mxhima&show_icons=true&locale=en&layout=compact" alt="mxhima" />
 
 
