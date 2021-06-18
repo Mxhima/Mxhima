@@ -1,4 +1,4 @@
-<h1 align="center">Yo, I'm Mahima Hemachandra 👋</h1>
+<h1 align="center">Yo, I'm Mahima Hemachandra 🤘 </h1>
 <h3 align="center">A follower of all things Aesthetic ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mxhima&label=Profile%20views&color=0e75b6&style=flat" alt="mxhima" /> </p>
@@ -38,6 +38,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mxhima&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mxhima&show_icons=true&locale=en&layout=compact" alt="mxhima" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mxhima&show_icons=true&locale=en&layout=compact" alt="mxhima" />
 
 
