@@ -7,7 +7,7 @@
 
 
 - 💻 Currently Working on several projects.
-- 📚 Currently learning React & Flutter.
+- 📚 Currently learning ASP.NET & Flutter.
 - 👯 Looking to collaborate with other developers.
 - 🥅 Goals: Change Myself ✨
 - 📫 How to reach me **nomad.inof@gmail.com**
